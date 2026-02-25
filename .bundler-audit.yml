@@ -11,7 +11,7 @@ ignore:
 
   # nokogiri
   - GHSA-mrxw-mxhj-p664 # High
-  - GHSA-wx95-c6cv-853200 # Medium
+  - GHSA-wx95-c6cv-8532 # Medium
   - GHSA-353f-x4gh-cqq8 # Unknown
   - GHSA-5w6v-399v-w3cc # Unkown
   - GHSA-vvfq-8hwr-qm4m # Unkown
