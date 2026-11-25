@@ -10,34 +10,37 @@ ignore:
 
   # Resolution requires ruby 3.x
   # faraday
-  - GHSA-33mh-2634-fwr2
-  - GHSA-5rv5-xj5j-3484
-  - GHSA-98m9-hrrm-r99r
+  - GHSA-33mh-2634-fwr2 # Medium
+  - GHSA-5rv5-xj5j-3484 # Medium
+  - GHSA-98m9-hrrm-r99r # High
+
   # net-imap
-  - GHSA-46q3-7gv7-qmgg
-  - GHSA-c4fp-cxrr-mj66
-  - GHSA-8p34-64r3-mwg8
+  - GHSA-46q3-7gv7-qmgg # Medium
+  - GHSA-c4fp-cxrr-mj66 # Low
+  - GHSA-8p34-64r3-mwg8 # Medium
+
   # nokogiri
-  - GHSA-r95h-9x8f-r3f7
-  - GHSA-wfpw-mmfh-qq69
-  - GHSA-3w22-6jfg-527w
-  - GHSA-4p39-36wj-23h4
-  - GHSA-5v8h-3h3q-446p
-  - GHSA-9cv2-cfxc-v4v2
-  - GHSA-wjv4-x9w8-wm3h
-  - GHSA-8678-w3jw-xfc2
-  - GHSA-mrxw-mxhj-p664
-  - GHSA-c4rq-3m3g-8wgx
-  - GHSA-353f-x4gh-cqq8
-  - GHSA-p67v-3w7g-wjg7
-  - GHSA-v995-44v6-5fqm
-  - GHSA-g9g8-vgvw-g3vf
-  - GHSA-5w6v-399v-w3cc
-  - GHSA-vvfq-8hwr-qm4m
-  - GHSA-v2fc-qm4h-8hqv
-  - GHSA-wx95-c6cv-8532
-  - GHSA-phwj-rprq-35pp
-  - GHSA-5prr-v3j2-97mh
+  - GHSA-r95h-9x8f-r3f7 # Low
+  - GHSA-wfpw-mmfh-qq69 # Unknown
+  - GHSA-3w22-6jfg-527w # Unknown
+  - GHSA-4p39-36wj-23h4 # Unknown
+  - GHSA-5v8h-3h3q-446p # Unknown
+  - GHSA-9cv2-cfxc-v4v2 # Unknown
+  - GHSA-wjv4-x9w8-wm3h # Unknown
+  - GHSA-8678-w3jw-xfc2 # Unknown
+  - GHSA-mrxw-mxhj-p664 # High
+  - GHSA-c4rq-3m3g-8wgx # High
+  - GHSA-353f-x4gh-cqq8 # Unknown
+  - GHSA-p67v-3w7g-wjg7 # Unknown
+  - GHSA-v995-44v6-5fqm # Low
+  - GHSA-g9g8-vgvw-g3vf # Unknown
+  - GHSA-5w6v-399v-w3cc # Unknown
+  - GHSA-vvfq-8hwr-qm4m # Unknown
+  - GHSA-v2fc-qm4h-8hqv # Medium
+  - GHSA-wx95-c6cv-8532 # Medium
+  - GHSA-phwj-rprq-35pp # Unknown
+  - GHSA-5prr-v3j2-97mh # Unknown
+
   # savon
-  - GHSA-mx5j-mp4f-g8jg
-  - GHSA-x99v-rwvj-g9p5
+  - GHSA-mx5j-mp4f-g8jg # High
+  - GHSA-x99v-rwvj-g9p5 # Unknown
